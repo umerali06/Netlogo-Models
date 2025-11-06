@@ -1,9 +1,5 @@
 # NetLogo Models 
 
-## Bundling
-
-The NetLogo Models Library is bundled with NetLogo.  You can download NetLogo and the Models Library from http://ccl.northwestern.edu/netlogo/.
-
 ## NetLogo Version Changes
 
 When the NetLogo version is bumped, a few changes are required:
